@@ -32,10 +32,7 @@ function HomepageHeader() {
 export default function Home(): ReactNode {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout
-      title={`${siteConfig.title}`}
-      description='VS Code documentation for ENGL 3085'
-    >
+    <Layout title={`${siteConfig.title}`} description={`${siteConfig.tagline}`}>
       <HomepageHeader />
       <main>
         <Authors />
