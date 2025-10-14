@@ -16,8 +16,8 @@ const authors: Author[] = [
     // avatar: '/img/nate-avatar.png',
   },
   {
-    name: 'Jane Doe',
-    about: 'A fictional author used for demonstration purposes.',
+    name: 'Saxton Calvert',
+    about: 'A software developer assistant at Space Dynamics Laboratory and student at Utah State University.',
     // avatar: '/img/jane-avatar.png',
   },
   {
