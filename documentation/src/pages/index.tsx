@@ -3,10 +3,9 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-// import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
-
 import styles from './index.module.css';
+import Authors from '../components/Authors';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -34,11 +33,13 @@ export default function Home(): ReactNode {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`${siteConfig.title}`}
       description='VS Code documentation for ENGL 3085'
     >
       <HomepageHeader />
-      <main>{/* <HomepageFeatures /> */}</main>
+      <main>
+        <Authors />
+      </main>
     </Layout>
   );
 }

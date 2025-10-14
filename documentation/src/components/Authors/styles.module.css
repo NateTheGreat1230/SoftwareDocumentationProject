@@ -1,0 +1,47 @@
+.authorsSection {
+  padding: 4rem 0;
+  background-color: var(--ifm-background-surface-color);
+}
+
+.authorCard {
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.authorCard:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 4px 16px rgba(0, 122, 204, 0.2);
+}
+
+.avatar {
+  width: 96px;
+  height: 96px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+  border: 2px solid var(--ifm-color-primary);
+}
+
+.placeholderAvatar {
+  width: 96px;
+  height: 96px;
+  border-radius: 50%;
+  margin: 0 auto 1rem auto;
+  background-color: var(--ifm-color-primary);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+[data-theme='dark'] .authorCard {
+  background-color: #252526;
+  border-radius: 12px;
+}
+
+[data-theme='dark'] .authorCard:hover {
+  box-shadow: 0 4px 16px rgba(0, 122, 204, 0.4);
+}
