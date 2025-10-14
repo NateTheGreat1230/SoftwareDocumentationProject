@@ -1,4 +1,62 @@
 
+## ⚙️ Getting Started — Run the Project Locally
+
+Once you’ve cloned the repository, follow these steps to set up and run the Docusaurus site.
+
+### 1️⃣ Install Dependencies
+
+If you haven’t already, install all required packages:
+
+```bash
+npm install
+```
+
+> This will download all dependencies listed in `package.json` (like React, Docusaurus, etc.).
+
+---
+
+### 2️⃣ Start the Development Server
+
+Run the local dev server:
+
+```bash
+npm start
+```
+
+> This starts Docusaurus in development mode.
+> The site will automatically open in your browser at:
+> 👉 **[http://localhost:3000](http://localhost:3000)**
+
+Every time you save a file, the site will reload automatically.
+
+---
+
+### 3️⃣ Build for Production
+
+When you’re ready to create the final optimized version of the site:
+
+```bash
+npm run build
+```
+
+> Builds the static files into the `build/` directory (optimized for speed and deployment).
+
+---
+
+### 4️⃣ Preview the Production Build (Optional)
+
+You can test your production build locally using:
+
+```bash
+npm run serve
+```
+
+> Serves the built files at **[http://localhost:3000](http://localhost:3000)** so you can verify everything looks correct.
+
+---
+
+## 🧭 Git Cheat Sheet — Commit & Push Workflow
+
 ### 1️⃣ Check Your Current Status
 
 ```bash
@@ -59,22 +117,5 @@ git push origin main
 ```
 
 > Uploads your commits to GitHub.
-
----
-
-### 🏁 Summary of Common Commands
-
-| Action           | Command                       |
-| ---------------- | ----------------------------- |
-| Check status     | `git status`                  |
-| Add all files    | `git add .`                   |
-| Commit           | `git commit -m "message"`     |
-| Pull latest      | `git pull origin main`        |
-| Push changes     | `git push origin main`        |
-| Create branch    | `git checkout -b branch-name` |
-| Switch branch    | `git checkout branch-name`    |
-| See branches     | `git branch`                  |
-| Merge branch     | `git merge branch-name`       |
-| Undo last commit | `git reset HEAD~1`            |
 
 ---
