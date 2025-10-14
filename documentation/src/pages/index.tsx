@@ -1,5 +1,4 @@
 import type { ReactNode } from 'react';
-import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
@@ -10,20 +9,15 @@ import Authors from '../components/Authors';
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
+    <header className={styles.heroBanner}>
       <div className='container'>
-        <Heading as='h1' className='hero__title'>
+        <Heading as='h1' className={styles.hero__title}>
           {siteConfig.title}
         </Heading>
-        <p className='hero__subtitle'>{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className='button button--secondary button--lg'
-            to='/docs/intro'
-          >
-            View the docs here!
-          </Link>
-        </div>
+        <p className={styles.hero__subtitle}>{siteConfig.tagline}</p>
+        <Link className={styles.button} to='/docs/intro'>
+          View the docs here!
+        </Link>
       </div>
     </header>
   );
