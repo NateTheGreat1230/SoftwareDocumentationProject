@@ -19,7 +19,7 @@
   --ifm-color-content: #1e1e1e;
   --ifm-navbar-background-color: #f3f3f3;
   --ifm-background-surface-color: #f3f3f3;
-  --ifm-footer-background-color: #eaeaea;
+  --ifm-footer-background-color: #f3f3f3;
   --docusaurus-highlighted-code-line-bg: rgba(0, 122, 204, 0.1);
 }
 
@@ -40,7 +40,7 @@
 
   /* Navbar and footer */
   --ifm-navbar-background-color: #252526;
-  --ifm-footer-background-color: #1e1e1e;
+  --ifm-footer-background-color: #252526;
 
   /* Code highlighting */
   --docusaurus-highlighted-code-line-bg: rgba(0, 122, 204, 0.15);

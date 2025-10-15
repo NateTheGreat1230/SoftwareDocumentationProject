@@ -65,14 +65,17 @@ const config: Config = {
       ],
     },
     footer: {
-      style: 'dark',
       links: [
         {
           title: 'Docs',
           items: [
             {
-              label: 'Installation Guide',
-              to: '/docs/intro',
+              label: 'Overview',
+              to: '/docs/overview',
+            },
+            {
+              label: 'Installation Instructions',
+              to: '/docs/category/installation-instructions',
             },
           ],
         },
