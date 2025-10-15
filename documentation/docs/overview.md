@@ -8,6 +8,6 @@ Welcome to our VS Code documentation. We strive to provide thorough and intuitiv
 
 ## Getting Started
 
-If you have not yet installed VS Code please follow our instructions [here](installation-instructions) to do so.
+If you have not yet installed VS Code please follow our instructions [here](category/installation-instructions) to do so.
 
 If you are looking to configure or customize your development experience follow our instructions here to do so.
