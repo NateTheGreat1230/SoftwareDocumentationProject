@@ -12,9 +12,7 @@ const config: Config = {
   },
 
   url: 'https://natewashburn.is-a.dev',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/SoftwareDocumentationProject/',
 
   organizationName: 'ENGL 3085 Project',
   projectName: 'VS Code Documentation',
