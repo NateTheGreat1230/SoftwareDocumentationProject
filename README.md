@@ -108,6 +108,8 @@ git pull origin main
 
 > This merges the newest version of `main` into your local copy, preventing conflicts later.
 
+If changes have been made and Git enters auto-merge mode (the default behavior), make sure the commit message is correct. The default message, such as `Merge branch 'main' ...`, is perfectly fine. Press `:wq` to save and exit the editor.
+
 ---
 
 ### 5️⃣ Push Your Changes
