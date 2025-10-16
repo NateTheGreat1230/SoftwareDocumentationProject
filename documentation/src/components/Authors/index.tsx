@@ -20,8 +20,8 @@ const authors: Author[] = [
       'A software developer assistant at Space Dynamics Laboratory and student at Utah State University.',
   },
   {
-    name: 'Alex Johnson',
-    about: 'Contributor focusing on VS Code customization and UI design.',
+    name: 'Nora Meeker',
+    about: 'Putting the "pro" in "procrastinator".',
   },
   {
     name: 'Sam Lee',
