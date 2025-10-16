@@ -4,6 +4,15 @@ sidebar_position: 10
 
 # Markdown Style Guide
 
+### Minimum Style Guide Table of Contents
+0. [Visual Size/Placement Guidelines](#main-header-for-a-page)
+0. [Color Use](#documentation-color-scheme)
+0. [Typefaces and their applications](#main-header-for-a-page)
+0. [Images](#images)
+0. [Voice and Style](#document-voice)
+
+# Main Header for a page
+
 Use one hash tag to create the main header for a page. This also becomes the title on the sidebar.
 
 ## Sub Heading Style
@@ -148,3 +157,19 @@ Use three hyphens to create a horizontal line:
 - Always use code blocks for code snippets, specifying the language when possible.
 - Maintain spacing between sections for readability.
 - Preview your Markdown to ensure correct formatting.
+
+## Documentation Color Scheme
+
+The following colors are the primary colors of our document, inspired by VS Code's main color scheme:
+0. #1e1e1e
+0. #007acc
+0. #006bb3
+0. #005c99
+0. #004d80
+0. #1a88d0
+0. #3396d6
+0. #66b1e0
+
+## Document Voice
+
+Our documentation will use a business casual tone, a friendly and approachable one so that readers are comfortable approaching the document while maintaining a sense of professionalism so that readers can trust the writers knowledge and understanding.
