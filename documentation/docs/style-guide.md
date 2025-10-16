@@ -5,11 +5,11 @@ sidebar_position: 10
 # Markdown Style Guide
 
 ### Minimum Style Guide Table of Contents
-0. [Visual Size/Placement Guidelines](#main-header-for-a-page)
-0. [Color Use](#documentation-color-scheme)
-0. [Typefaces and their applications](#main-header-for-a-page)
-0. [Images](#images)
-0. [Voice and Style](#document-voice)
+1. [Visual Size/Placement Guidelines](#main-header-for-a-page)
+1. [Color Use](#documentation-color-scheme)
+1. [Typefaces and their applications](#main-header-for-a-page)
+1. [Images](#images)
+1. [Voice and Style](#document-voice)
 
 # Main Header for a page
 
@@ -161,14 +161,15 @@ Use three hyphens to create a horizontal line:
 ## Documentation Color Scheme
 
 The following colors are the primary colors of our document, inspired by VS Code's main color scheme:
-0. #1e1e1e
-0. #007acc
-0. #006bb3
-0. #005c99
-0. #004d80
-0. #1a88d0
-0. #3396d6
-0. #66b1e0
+
+1. #1e1e1e
+1. #007acc
+1. #006bb3
+1. #005c99
+1. #004d80
+1. #1a88d0
+1. #3396d6
+1. #66b1e0
 
 ## Document Voice
 
