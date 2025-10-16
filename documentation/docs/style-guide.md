@@ -65,20 +65,6 @@ Three hash tags create a smaller subsection. You can continue increasing the num
 
 ![Logo Image (or other alt text)](/img/logo.png)
 
-- Resize Images with HTML
-
-If you need to resize your image you need to use html like this:
-
-```html
-<img src="/img/logo.png" alt="Logo" width="300" />
-```
-
-<img src="/img/logo.png" alt="Logo" width="300" />
-
-width="300" sets the width to 300 pixels.
-
-You can also use height="auto" to maintain the aspect ratio.
-
 ## Code
 
 ### Inline Code
