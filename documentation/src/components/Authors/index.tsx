@@ -18,6 +18,7 @@ const authors: Author[] = [
     name: 'Saxton Calvert',
     about:
       'A software developer assistant at Space Dynamics Laboratory and student at Utah State University.',
+    avatar: 'img/saxtonPic.jpg',
   },
   {
     name: 'Nora Meeker',
