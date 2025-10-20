@@ -23,6 +23,7 @@ const authors: Author[] = [
   {
     name: 'Nora Meeker',
     about: 'Putting the "pro" in "procrastinator".',
+    avatar: 'img/NoraPicture.jpg',
   },
   {
     name: 'Sam Lee',
