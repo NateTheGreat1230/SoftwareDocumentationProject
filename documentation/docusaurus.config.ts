@@ -75,8 +75,17 @@ const config: Config = {
               label: 'Installation Instructions',
               to: '/docs/category/installation-instructions',
             },
+            {
+              label: 'Customization - Layout & Themes',
+              to: '/docs/category/layout-themes',
+            },
+            {
+              label: 'Keyboard Shortcuts',
+              to: '/docs/category/keyboard-shortcuts',
+            },
           ],
         },
+        {},
         {
           title: 'Other Resources',
           items: [
