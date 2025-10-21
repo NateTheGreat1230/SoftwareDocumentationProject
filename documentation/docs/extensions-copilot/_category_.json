@@ -1,0 +1,8 @@
+{
+  "label": "Extensions and Copilot",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Instructions on using VS Code Extensions and GitHub Copilot."
+  }
+}
