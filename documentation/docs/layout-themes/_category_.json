@@ -1,0 +1,8 @@
+{
+  "label": "Customization - Layout & Themes",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Guides on customizing the layout and themes of VS Code to suit your preferences."
+  }
+}
