@@ -5,13 +5,50 @@ sidebar_position: 10
 # Markdown Style Guide
 
 ### Minimum Style Guide Table of Contents
-1. [Visual Size/Placement Guidelines](#main-header-for-a-page)
+
+1. [Visual Size/Placement Guidelines](#sub-heading-style)
+1. [Basic Layout for Pages](#basic-layouts)
 1. [Color Use](#documentation-color-scheme)
-1. [Typefaces and their applications](#main-header-for-a-page)
+1. [Typefaces and their applications](#sub-heading-style)
 1. [Images](#images)
 1. [Voice and Style](#document-voice)
 
-# Main Header for a page
+## Basic Layouts
+
+```md title="fileName.md"
+---
+sidebar_position: { position on the sidebar }
+---
+
+# Title of the Page
+
+Quick description of page content (this shows up on the pages card)
+
+## Sub Headings
+
+Any text about the subheading goes here. Also images code blocks
+
+### Third Level Subheading
+
+### Other fun Heading under Sub Headings
+```
+
+```json title="_category_.json"
+{
+  "label": "Customization - Layout & Themes",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Guides on customizing the layout and themes of VS Code to suit your preferences."
+  }
+}
+```
+
+Optionally you can add a `slug` to the link section or the top section of these pages to change the URL from default.
+
+There are many other customizations you can make in here if you are needing anything check the [Docusaurus Documentation.](https://docusaurus.io/docs/next/sidebar/items#category-link)
+
+`# Main Header for a page`
 
 Use one hash tag to create the main header for a page. This also becomes the title on the sidebar.
 

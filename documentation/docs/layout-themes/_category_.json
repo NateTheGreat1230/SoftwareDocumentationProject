@@ -3,6 +3,7 @@
   "position": 3,
   "link": {
     "type": "generated-index",
+    "slug": "category/layout-themes",
     "description": "Guides on customizing the layout and themes of VS Code to suit your preferences."
   }
 }
