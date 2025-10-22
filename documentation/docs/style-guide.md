@@ -92,8 +92,8 @@ Three hash tags create a smaller subsection. You can continue increasing the num
 ## Links
 
 - Inline link: `[Link Text](https://example.com)` → [Link Text](https://example.com)
-- Internal link aka link a different documentation page `[intro page](intro.md)` do not forget to include the path if the other page is not in the same directory like this `tutorial-basics/congratulations.md` → [intro page](intro.md)
-- Internal link to a specific section within a different page `[generate a site](intro.md#generate-a-new-site)` → [generate a site](intro.md#generate-a-new-site)
+- Internal link aka link a different documentation page `[overview page](overview.md)` do not forget to include the path if the other page is not in the same directory like this `installation-instructions/overview.md` → [overview page](overview.md)
+- Internal link to a specific section within a different page `[getting started](overview.md#getting-started)` → [getting started](overview.md#getting-started)
 - Internal link to a different section on the same page `[code](#code)` → [code](#code)
 - Reference link:
 
