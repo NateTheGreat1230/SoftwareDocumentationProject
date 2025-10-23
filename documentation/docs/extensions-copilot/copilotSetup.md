@@ -23,4 +23,7 @@ If you have a Copilot subscription associated with another GitHub account, you w
 
 ## Disabling AI features from VS Code
 
-If you would prefer to disable the built-in AI features that AI has, go to the Activity Bar found on the left hand side of the screen and click the Manage menu (gear icon) found in the bottom left corner. Enter the *Settings* menu and either type "Disable AI Features" into the search bar or scroll down to Features > Chat > Disable AI Features. Select the box next to the feature name. This disables and hides chat features and inline suggestions.
+If you would prefer to disable the built-in AI features that AI has, do the following:
+1. Go to the Activity Bar found on the left hand side of the screen and click the Manage menu (gear icon) found in the bottom left corner. 
+1. Enter the *Settings* menu and either type "Disable AI Features" into the search bar or scroll down to Features > Chat > Disable AI Features. 
+1. Select the box next to the feature name. This disables and hides chat features and inline suggestions.
