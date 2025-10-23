@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Copilot Setup in VS Code
 
 Copilot is a GitHub AI that can be used directly from within VS Code. A subscription is needed before this can be implemented. If you do not have a Copilot subscription, a free plan will be given.
