@@ -1,0 +1,8 @@
+{
+  "label": "Debugging Tool",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Step-by-step instructions to effectively use the debugging tool."
+  }
+}
