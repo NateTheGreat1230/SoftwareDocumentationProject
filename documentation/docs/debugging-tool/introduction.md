@@ -16,7 +16,7 @@ The VSCode debugger is an interactive interface that lets you see into the "mind
 
 This helps you to **Find logic errors**, understand the flow of your program, and find all your bugs faster, especially when working with more complex projects.
 
-## Where to find it**
+## Where to find it
 To use the debugging tool, you must start your program using a different button the run button.
 
 - Open the file to debug, and click on the ```Run and Debug``` button located on the **Left Sidebar**.
