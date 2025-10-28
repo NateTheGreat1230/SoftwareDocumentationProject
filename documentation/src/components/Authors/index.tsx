@@ -26,8 +26,8 @@ const authors: Author[] = [
     avatar: 'img/NoraPicture.jpg',
   },
   {
-    name: 'Sam Lee',
-    about: 'Technical writer and documentation enthusiast.',
+    name: 'Ethan Hammons',
+    about: 'Full time chiller and student at USU.',
   },
 ];
 
