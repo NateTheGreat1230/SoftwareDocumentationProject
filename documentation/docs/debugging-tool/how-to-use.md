@@ -120,3 +120,50 @@ Stops the current debug session, and quickly begins a new one.
 Stops the current debug session
 
 ![logo](/img/debugger/Stop0.png)
+
+## Debug Console
+
+The debug console allows you to actually interact with your program while it's paused in the debugger. This will give you the ability to:
+- View program output
+- Evaluate variables and expressions in real time
+- Call functions and inspect return values
+- Modify values to test different scenarios — without changing your source code
+
+This allows you to easily try out different expressions and read values of variable and expressions. It could be thought of as just creating print statements throughout your program without actually creating them.
+
+You will be able to interact in a python environment that has all of the information your program has \( at the current breakpoint \). While in debug mode, the debug terminal will appear at the bottom
+
+![debug console](/img/debugger/DebugConsole.png)
+
+For example, say I have this python program:
+```python
+def add(x, y):
+    total = x + y
+    return total
+
+result = add(5, 7)
+print(result)
+```
+
+If I had a breakpoint on the line ```result = add(5, 7)``` and I stepped into the function, I could interact with the 
+the current variables:
+```python
+Input:
+x
+y
+x+y
+```
+
+```python
+Output:
+5
+7
+12
+```
+
+You can even call functions manually
+```python
+add(10, 3) > 13
+```
+
+Using the debug console, you are able to change and view all of the data that your program is using. This is a great tool to use when inspecting complex data, or to see how a change impacts your program while it's running.
