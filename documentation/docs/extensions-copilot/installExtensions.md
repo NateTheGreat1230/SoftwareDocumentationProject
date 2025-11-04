@@ -26,7 +26,7 @@ You can install an extension directly within VS Code by doing the following:
 
 ### From Visual Studio Marketplace
 You can install an extension from the Visual Studio Marketplace by doing the following:
-1. Go to [marketplace.visualstudio.com/vscode](marketplace.visualstudio.com/vscode).
+1. Go to [marketplace.visualstudio.com/vscode](https://marketplace.visualstudio.com/vscode).
 ![Visual Studio Marketplace Home Page](/img/copilot-extensions/marketplaceMenu.png)
 1. Search for the extension you wish to install using the search bar and/or scrolling down on the webpage.
 1. When you find the extension you wish to install, select it. You should be directed to a new page.
