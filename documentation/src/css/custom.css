@@ -45,3 +45,21 @@
   /* Code highlighting */
   --docusaurus-highlighted-code-line-bg: rgba(0, 122, 204, 0.15);
 }
+
+.author_section {
+  margin-top: 3rem;
+  padding: 1rem 1.5rem;
+  border-top: 2px solid var(--ifm-color-primary);
+  background-color: var(--ifm-background-surface-color);
+  color: var(--ifm-color-content);
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: left;
+  width: 74.5%;
+}
+
+@media (max-width: 996px) {
+  .author_section {
+    width: 100%;
+  }
+}
