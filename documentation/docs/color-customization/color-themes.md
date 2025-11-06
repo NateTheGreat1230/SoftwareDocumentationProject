@@ -21,7 +21,7 @@ This saves the theme for your active [profile](../profiles-layout/profiles.md).
 
 VS Code includes several built-in themes, but you can find many more in the **VS Code Marketplace**.
 
-_**Note:** click to find more information on the [VS Code Extension Marketplace](docs/extensions-copilot/installExtensions.md)._
+_**Note:** click to find more information on the [VS Code Extension Marketplace](docs/extensions/marketplaceExtensions.md)._
 
 To browse available themes:
 

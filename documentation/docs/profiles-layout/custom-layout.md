@@ -9,7 +9,7 @@ Guide to changing the layout in VS Code.
 
 ## Overview
 
-You can change many parts of the VS Code user interface because of it's fully modular layout. Features like [Zen Mode](#zen-mode) or the VS Code [Panel](#the-panel) can make the development experience much more productive and enjoyable and features like the [sidebars](#sidebars) provide quick access to files, extensions, or tools like [Copilot](docs/extensions-copilot/copilotChat.md).
+You can change many parts of the VS Code user interface because of it's fully modular layout. Features like [Zen Mode](#zen-mode) or the VS Code [Panel](#the-panel) can make the development experience much more productive and enjoyable and features like the [sidebars](#sidebars) provide quick access to files, extensions, or tools like [Copilot](docs/copilot/copilotChat.md).
 
 ---
 
@@ -46,7 +46,7 @@ The **Sidebars** house important tools like the Explorer, Source Control, Search
 VS Code supports two sidebars:
 
 - **Primary Sidebar:** by default on the left.
-- **Secondary Sidebar:** opposite the primary, great for multitasking (e.g., Explorer on the left, [Copilot](docs/extensions-copilot/copilotChat.md) on the right).
+- **Secondary Sidebar:** opposite the primary, great for multitasking (e.g., Explorer on the left, [Copilot](docs/copilot/copilotChat.md) on the right).
 
 To manage Sidebars:
 

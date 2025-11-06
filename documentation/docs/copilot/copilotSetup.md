@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+author: Saxton Calvert
 ---
 
 # Copilot Setup in VS Code
@@ -11,7 +12,7 @@ Copilot is a GitHub AI that can be used directly from within VS Code. A subscrip
 1. The first thing you'll want to do is hover over the Copilot icon in the Status Bar found in the bottom right corner to the left of the bell icon and select **Set up Copilot**. The Copilot icon is highlighted in red and the **Set up Copilot** button will be in bright blue above it as demonstrated below.
 ![Copilot Setup Button](/img/copilot-extensions/setup-copilot.png)
 1. Utilizing the account you have for your GitHub Copilot subscription, choose the appropriate sign-in method and follow any prompts provided to you. If, at this point, you do not have a subscription, you will be signed up for the *Copilot Free plan* with the account you sign in with.
-1. From there, you will be able to use Copilot in VS Code. You can learn basics in the [Chat](docs/extensions-copilot/copilotChat.md) page and you can learn different adjustments you can make in the [Customization](docs/extensions-copilot/copilotCustomize.md) page.
+1. From there, you will be able to use Copilot in VS Code. You can learn basics in the [Chat](docs/copilot/copilotChat.md) page and you can learn different adjustments you can make in the [Customization](docs/copilot/copilotCustomize.md) page.
 
 ## Switching accounts
 

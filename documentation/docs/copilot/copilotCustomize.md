@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+author: Saxton Calvert
 ---
 
 # Customize Copilot
@@ -45,6 +46,6 @@ MCP & Tools allow you to connect external, or non-VS Code, services through the 
 
 The following are suggestions that you can try to make your Copilot chat customizations personalized to your needs. You can implement them incrementally, starting with what you view as simplest and adding more complexity as you need and/or learn.
 
-1. Try different language models. You can learn more about how to do this on the [Copilot Chat](docs/extensions-copilot/copilotChat.md) page.
+1. Try different language models. You can learn more about how to do this on the [Copilot Chat](docs/copilot/copilotChat.md) page.
 1. Set up basic guidelines. You can do this by creating a `.github/copilot-instructions.md` file with all your preferences and coding standards. This file should be placed at the root, or starting folder, of your VS Code project.
 1. Add task automation. If you're repetitively doing the same task over and over again, try adding prompt files so that they can save you time and ensure consistency.
