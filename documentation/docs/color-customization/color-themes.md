@@ -1,5 +1,6 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
+author: Nate Washburn
 ---
 
 # Color Themes
@@ -14,7 +15,7 @@ To change your current theme:
 2. Use the **Up** and **Down** arrow keys to preview available themes.
 3. Press **Enter** to confirm your choice.
 
-This saves the theme for your active [profile](introduction.md#profiles).
+This saves the theme for your active [profile](../profiles-layout/profiles.md).
 
 ## Marketplace Introduction
 
@@ -27,4 +28,4 @@ To browse available themes:
 - Open the **Command Palette** (`Ctrl+Shift+P`) and run `Preferences: Browse Color Themes in Marketplace`.
 - Open the **Extensions view** and search using the filter `@category:"themes"`.
 
-When you find a theme you like, select **Install**, and it will appear in your Color Theme list for the active [profile](introduction.md#profiles).
+When you find a theme you like, select **Install**, and it will appear in your Color Theme list for the active [profile](../profiles-layout/profiles.md).

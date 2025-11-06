@@ -77,7 +77,11 @@ const config: Config = {
             },
             {
               label: 'Customization - Layout & Themes',
-              to: '/docs/category/layout-themes',
+              to: '/docs/category/profiles-layouts',
+            },
+            {
+              label: 'Customization - Color Themes',
+              to: '/docs/category/color-customization',
             },
             {
               label: 'Keyboard Shortcuts',

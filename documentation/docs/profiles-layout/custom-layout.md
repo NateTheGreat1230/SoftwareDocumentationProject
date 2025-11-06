@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+author: Nate Washburn
 ---
 
 # Custom Layout
@@ -78,4 +79,4 @@ To activate Zen Mode:
 
 - You can also open the **Customize Layout** view from the **Command Palette** (`Ctrl+Shift+P`) by searching `customize layout`.
 - You can reset all defaults from the **Customize Layout** view.
-- Try pairing layouts with [Profiles](introduction.md#profiles) to save setups for different projects.
+- Try pairing layouts with [Profiles](profiles.md) to save setups for different projects.

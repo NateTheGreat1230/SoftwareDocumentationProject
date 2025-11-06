@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+author: Nate Washburn
 ---
 
 # Installation On Windows

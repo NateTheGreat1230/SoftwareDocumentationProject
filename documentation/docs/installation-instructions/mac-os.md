@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+author: Nate Washburn
 ---
 
 # Installation On macOS

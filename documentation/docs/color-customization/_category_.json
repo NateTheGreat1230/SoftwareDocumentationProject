@@ -1,0 +1,10 @@
+{
+  "label": "Customization - Color Themes",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "slug": "category/color-customization",
+    "description": "Guides on customizing the color themes of VS Code to suit your preferences."
+  }
+}
+

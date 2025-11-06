@@ -1,0 +1,9 @@
+{
+  "label": "Customization - Profiles & Layouts",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "slug": "category/profiles-layouts",
+    "description": "Guides on customizing the profiles and layouts of VS Code to suit your preferences."
+  }
+}
