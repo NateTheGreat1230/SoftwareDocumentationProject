@@ -1,6 +1,6 @@
 {
   "label": "GitHub Copilot",
-  "position": 6,
+  "position": 9,
   "link": {
     "type": "generated-index",
     "description": "Instructions on using GitHub Copilot in VS Code."

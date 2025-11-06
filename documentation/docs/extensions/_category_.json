@@ -1,6 +1,6 @@
 {
-  "label": "VS Code Extensions",
-  "position": 5,
+  "label": "Customization - VS Code Extensions",
+  "position": 8,
   "link": {
     "type": "generated-index",
     "description": "Instructions on using VS Code Extensions"
