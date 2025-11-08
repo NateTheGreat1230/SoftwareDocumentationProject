@@ -1,5 +1,6 @@
 --- 
 sidebar_position: 1
+author: Nora Meeker
 ---
 
 # Keyboard Shortcuts for Windows
