@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+author: Ethan Hammons
 ---
 
 # Using Advanced Debugging Tools

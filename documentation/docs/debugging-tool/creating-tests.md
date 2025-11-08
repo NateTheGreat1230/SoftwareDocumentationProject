@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+author: Ethan Hammons
 ---
 
 # Using VSCode Tests

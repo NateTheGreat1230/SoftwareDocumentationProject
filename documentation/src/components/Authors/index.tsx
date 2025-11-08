@@ -28,6 +28,7 @@ const authors: Author[] = [
   {
     name: 'Ethan Hammons',
     about: 'Full time chiller and student at USU.',
+    avatar: 'img/ethanPic.png',
   },
 ];
 
