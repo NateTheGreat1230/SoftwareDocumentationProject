@@ -1,8 +1,8 @@
 {
-  "label": "Programming Languagess",
-  "position": 3,
+  "label": "Programming Languages",
+  "position": 10,
   "link": {
     "type": "generated-index",
-    "description": "A guide to the many keyboard shortcuts to help you on your journey."
+    "description": "Programming Languages Overview."
   }
 }

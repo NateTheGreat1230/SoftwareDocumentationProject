@@ -103,6 +103,10 @@ const config: Config = {
               label: 'GitHub Copilot',
               to: '/docs/category/copilot',
             },
+            {
+              label: 'Programming Languages',
+              to: '/docs/category/programming-languages',
+            },
           ],
         },
         {},

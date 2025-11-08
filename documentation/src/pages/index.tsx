@@ -11,6 +11,7 @@ function HomepageHeader() {
   return (
     <header className={styles.heroBanner}>
       <div className='container'>
+        <img src='img/vscodelogo.png' alt='VS Code Logo' height={150} />
         <Heading as='h1' className={styles.hero__title}>
           {siteConfig.title}
         </Heading>
