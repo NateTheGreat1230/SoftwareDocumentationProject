@@ -105,4 +105,3 @@ Customizing keyboard shortcuts can make your workflow faster, smoother, and more
 * Export your keybindings for use on other machines via the **Settings Sync** feature.
 
 Customizing your shortcuts turns VS Code into a more personal and efficient development environment, tailoring it exactly to how you work. 
-
