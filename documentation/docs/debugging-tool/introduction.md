@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+author: Ethan Hammons
 ---
 
 # Debugging Tool Introduction
@@ -16,13 +17,10 @@ The VSCode debugger is an interactive interface that lets you see into the "mind
 
 This helps you to **Find logic errors**, understand the flow of your program, and find all your bugs faster, especially when working with more complex projects.
 
-## Where to find it
-To use the debugging tool, you must start your program using a different button the run button.
+## Why it's useful
 
-- Open the file to debug, and click on the ```Run and Debug``` button located on the **Left Sidebar**.
+Debuggers are incredibly useful tools when coding because they allow programmers to find and fix errors efficiently by observing their code in action. Instead of relying on print statements or guesswork, a debugger lets you pause execution at specific points, inspect variables, step through lines of code, and see exactly how data changes over time.
 
-![Run and Debug button](/img/debugger/RunAndDebugButton.png)
+Using the debugger, you will be able to slowly walk through your program and have all of the program's information avaliable to you.
 
-Or by using ```Ctrl + Shift + D``` (windows/linux) or ```Cmd + Shift + D```(mac).
-
-This will open up the debugger interface, and your ready to start using the tool.
+This makes it much easier to understand why a program is not behaving as expected, track down logic errors, and verify that each part of your code is working correctly. Overall, using a debugger saves time, improves code reliability, and helps you become a better problem-solver.
