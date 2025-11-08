@@ -76,7 +76,19 @@ const config: Config = {
               to: '/docs/category/installation-instructions',
             },
             {
-              label: 'Customization - Layout & Themes',
+              label: 'Keyboard Shortcuts',
+              to: '/docs/category/keyboard-shortcuts',
+            },
+            {
+              label: 'Debugging Tool',
+              to: '/docs/category/debugging-tool',
+            },
+            {
+              label: 'Git Version Control',
+              to: '/docs/category/git-vcs',
+            },
+            {
+              label: 'Customization - Profiles & Layouts',
               to: '/docs/category/profiles-layouts',
             },
             {
@@ -84,8 +96,12 @@ const config: Config = {
               to: '/docs/category/color-customization',
             },
             {
-              label: 'Keyboard Shortcuts',
-              to: '/docs/category/keyboard-shortcuts',
+              label: 'Customization - Extensions',
+              to: '/docs/category/extensions',
+            },
+            {
+              label: 'GitHub Copilot',
+              to: '/docs/category/copilot',
             },
           ],
         },
